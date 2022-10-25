@@ -45,8 +45,12 @@ Sains Data
 
 ## Dataset Heating Oil (Asosiasi, Estimasi)
 1) Sampel Dataset Golf dengan Algoritma Correlation Matrix
+![image](https://user-images.githubusercontent.com/80516363/197740228-499435bf-a340-4ebe-87b4-d792765c6166.png)
 2) Himpunan data (dataset)
+![image](https://user-images.githubusercontent.com/80516363/197740510-464e1121-8ee3-4dc5-9f79-13fec79e24e3.png)
 3) Pola/Model Data
+![image](https://user-images.githubusercontent.com/80516363/197740404-dcb7ab2e-3902-49a5-9f2c-143705afd9fc.png)
+![image](https://user-images.githubusercontent.com/80516363/197740440-9b2c3922-42f3-4b16-a3da-0598f039d97a.png)
 
 ## Dataset Transaksi (Association)
 1) Sampel Dataset Golf dengan Algoritma FP-Growth
