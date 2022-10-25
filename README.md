@@ -30,8 +30,9 @@ Sains Data
 
 ## Dataset CPU (Estimasi)
 ### 1) Sampel Dataset CPU dengan Algoritma linier Regreeion
-### 2) Himpunan data (dataset)
-### 3) Pola/Model Data
+![image](https://user-images.githubusercontent.com/80516363/197694346-6d9e7a95-213a-44d1-b071-d0e54e94cad6.png)
+### 2) Himpunan data (dataset) & Pola/Model Data
+![image](https://user-images.githubusercontent.com/80516363/197694595-5499dbfc-f3ec-43f8-90a1-85054e87b1bd.png)
 
 ## Dataset Data Pemilu KPU (Klasifikasi)
 ### 1) Sampel Dataset Golf dengan Algoritma Decision Tree
