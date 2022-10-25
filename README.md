@@ -62,5 +62,8 @@ Sains Data
 
 ## Dataset Harga Saham (Forecasting) (Uni dan Multi)
 1) Sampel Dataset Golf dengan Algoritma Netural Net
+![image](https://user-images.githubusercontent.com/80516363/197745667-5fe97e10-fa4f-4adf-abf8-d3f6d8d60556.png)
 2) Himpunan data (dataset)
+![image](https://user-images.githubusercontent.com/80516363/197745954-1161f01c-96f2-44aa-875e-a0fcbecbb4ad.png)
 3) Pola/Model Data
+![image](https://user-images.githubusercontent.com/80516363/197746011-65c93cce-98a8-4ba0-952b-a651bff0c8f2.png)
