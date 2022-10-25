@@ -36,8 +36,12 @@ Sains Data
 
 ## Dataset Data Pemilu KPU (Klasifikasi)
 1) Sampel Dataset Golf dengan Algoritma Decision Tree
+![image](https://user-images.githubusercontent.com/80516363/197736990-733e026c-17a7-4328-8ca5-53a8251e57e2.png)
 2) Himpunan data (dataset)
+![image](https://user-images.githubusercontent.com/80516363/197737115-97d6679c-29ef-42a1-89c0-0fbd00dd8d73.png)
 3) Pola/Model Data
+![image](https://user-images.githubusercontent.com/80516363/197737201-16acd53a-557d-4d48-b267-0568713f9312.png)
+![image](https://user-images.githubusercontent.com/80516363/197737331-467f4609-9a79-40be-8168-b106a0d08f4b.png)
 
 ## Dataset Heating Oil (Asosiasi, Estimasi)
 1) Sampel Dataset Golf dengan Algoritma Correlation Matrix
