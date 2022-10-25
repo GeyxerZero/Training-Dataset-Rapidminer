@@ -54,8 +54,11 @@ Sains Data
 
 ## Dataset Transaksi (Association)
 1) Sampel Dataset Golf dengan Algoritma FP-Growth
+![image](https://user-images.githubusercontent.com/80516363/197743348-96c7b4f4-00d5-420e-9c9d-da75ebbbbb1b.png)
 2) Himpunan data (dataset)
+![image](https://user-images.githubusercontent.com/80516363/197743386-a4d383c1-724c-4824-b32e-e1c2c1361b97.png)
 3) Pola/Model Data
+![image](https://user-images.githubusercontent.com/80516363/197743463-8bb0036d-135a-43f8-9bc7-79c28de6973a.png)
 
 ## Dataset Harga Saham (Forecasting) (Uni dan Multi)
 1) Sampel Dataset Golf dengan Algoritma Netural Net
