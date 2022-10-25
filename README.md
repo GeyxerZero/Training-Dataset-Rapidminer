@@ -35,21 +35,21 @@ Sains Data
 ![image](https://user-images.githubusercontent.com/80516363/197694595-5499dbfc-f3ec-43f8-90a1-85054e87b1bd.png)
 
 ## Dataset Data Pemilu KPU (Klasifikasi)
-### 1) Sampel Dataset Golf dengan Algoritma Decision Tree
-### 2) Himpunan data (dataset)
-### 3) Pola/Model Data
+1) Sampel Dataset Golf dengan Algoritma Decision Tree
+2) Himpunan data (dataset)
+3) Pola/Model Data
 
 ## Dataset Heating Oil (Asosiasi, Estimasi)
-### 1) Sampel Dataset Golf dengan Algoritma Correlation Matrix
-### 2) Himpunan data (dataset)
-### 3) Pola/Model Data
+1) Sampel Dataset Golf dengan Algoritma Correlation Matrix
+2) Himpunan data (dataset)
+3) Pola/Model Data
 
 ## Dataset Transaksi (Association)
-### 1) Sampel Dataset Golf dengan Algoritma FP-Growth
-### 2) Himpunan data (dataset)
-### 3) Pola/Model Data
+1) Sampel Dataset Golf dengan Algoritma FP-Growth
+2) Himpunan data (dataset)
+3) Pola/Model Data
 
 ## Dataset Harga Saham (Forecasting) (Uni dan Multi)
-### 1) Sampel Dataset Golf dengan Algoritma Netural Net
-### 2) Himpunan data (dataset)
-### 3) Pola/Model Data
+1) Sampel Dataset Golf dengan Algoritma Netural Net
+2) Himpunan data (dataset)
+3) Pola/Model Data
